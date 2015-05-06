@@ -22,7 +22,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
 
 /**
- * annotation used to specify that the test method need to be ignored during reporting through RuntimeReporter.
+ * annotation used to specify that the test method need to be ignored during reporting through RuntimeReporter reports.
  */
 @Retention(RUNTIME)
 @Target({ METHOD })
