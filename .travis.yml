@@ -4,7 +4,7 @@ jdk:
 - openjdk7
 env:
   global:
-  - secure: GYwac5/LFhDDgePrA56aMAm6zDaIYlRkHFlg3Jkj/dw+GE9+DcaKPQRLw6MuIJRwz9SeJXkVtAY6xQMS0qc55lxMj1MHDsxo4YgfQLqQPBSi6AuxQBIuJUmESUPG/ydxXcXApUNpz1u9L1UsoAYeZDTbVD0Ds/fMLTSPe7YJtQY=
+    secure: gybJf48reMvBlQgos/Wi1GSxsC8fdeMtL6tSlFCx/Zts0rFHTNnVu1Zj/ePxQd7s8GYjdXM6RXjs+WDpzrvvtyPFX7RQVfCMNZRa2DqApdNobKVNoqtb1OTTt16GdXQZeJwrMTxVbTptj+qt8RLhR06U723BB33Z3jzpsAKv+Kk=
 install:
 - sh -e install-ios-driver.sh
 script:
